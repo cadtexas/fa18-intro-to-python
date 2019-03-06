@@ -35,9 +35,9 @@ citizen_fake_age = 22
 
 if citizen_fake_age > 35:
 	print(citizen_name + " can run for president.")
-if citizen_fake_age > 21:
+if citizen_fake_age > 21: # Fix this line!
 	print(citizen_name + " can buy alcohol legally but not run for president.")
-if citizen_fake_age > 18:
+if citizen_fake_age > 18: # Fix this line!
 	print(citizen_name + " can vote in elections but not buy alcohol legally or run for president.")
 else:
 	print(citizen_name + " is still a child and cannot do anything.")
