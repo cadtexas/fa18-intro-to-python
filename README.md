@@ -8,7 +8,7 @@ This workshop will be held in **CPE 2.216 6-7PM, every Tuesday**
 ## Instructors
 * Sean Yu (seantyu@utexas.edu)
 * Hannah Lee
-* Claire Zheng
+* Claire Zheng (claire.zheng@utexas.edu)
 
 ## Textbook & Resources
 This semester, we'll be shifting over this course to be more in line with Python Crash Course. Previous semesters used Programming Using Python. PDFs of the textbooks can be found in the Textbooks directory.  
