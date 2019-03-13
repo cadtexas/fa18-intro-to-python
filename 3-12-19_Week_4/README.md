@@ -2,7 +2,7 @@
 These instructions can be found on slide 19. Exercise 1 can be found on slide 18.
 
 Starting with a working solution for the first part of the exercise (`exercise_part1.py`) modify it to fit the following requirements:
-* The list squares should only store odd squares
+* The list `squares` should only store odd squares
 * If the square of a base is calculated to be even, print it out along with a message (example: "The square of 2 is even!")
 
 If you do not have a working solution for the first part of the exercise, you can use either solution 1 or 2 in `exercise_part1.py`. We recommend that you use solution 1, but either is fine.
