@@ -1,5 +1,5 @@
 '''
-Week 5: Programming Assignment 1 SOLUTIONS:
+Week 5: Programming Assignment 2 SOLUTIONS:
 https://codingbat.com/prob/p137202
 
 The comments try to explain the code in words. 
