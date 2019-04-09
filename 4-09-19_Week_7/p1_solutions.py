@@ -12,7 +12,7 @@ def organize_birthday():
 		guest = input("Who would you like to invite? Type 'done' when you are done. " )
 		if guest == "done":
 			break
-		guest_list.append(guest)
+		guest_list.append(guest.title())
 
 	print_birthday(name, age)
 	print_guests(guest_list)
@@ -20,11 +20,11 @@ def organize_birthday():
 # Prints the "Happy Xth Birthday, User!" message
 def print_birthday(name, age):
 	suffix = "th"
-	if age % 10 == 1 and age != 11:
+	if age % 10 == 1 and age % 100 != 11:
 		suffix = "st"
-	elif age % 10 == 2 and age != 12:
+	elif age % 10 == 2 and age % 100 != 12:
 		suffix = "nd"
-	elif age % 10 == 3 and age != 13:
+	elif age % 10 == 3 and age % 100 != 13:
 		suffix = "rd"
 
 	age_suffix = str(age) + suffix
