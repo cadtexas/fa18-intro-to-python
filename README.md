@@ -2,7 +2,7 @@
 Welcome! This couse has been designed to serve as a student's first introduction to programming. We will be using [Python3](https://www.python.org/downloads/).
 
 Slides and exercises will be posted here weekly.
-
+(Note: The slides for week 8 are the same as those for week 7)
 This workshop will be held in **CPE 2.216 6-7PM, every Tuesday**
 
 ## Instructors
